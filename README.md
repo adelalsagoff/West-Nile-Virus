@@ -116,7 +116,7 @@ Spray data timeline only coincides within a subset of the dates that the test an
 
 ### Mosquito Species
 
-Although there are 6 different types of species, 2 of the species made up ~96% of the species collected and are identified as carriers of WNV.
+Although there are 6 different types of species, 3 of the species made up ~96% of the species collected and are identified as carriers of WNV.
 <br>They are:
 - CULEX PIPIENS/RESTUANS
 - CULEX RESTUANS
@@ -156,13 +156,11 @@ Culex mosquitos favor high humidity conditions as they function best in these en
 
 Just as temperature drops after week 30, and Dewpoint after week 34, the presence of WNV in the traps tend to fall sharply at week 35 onwards.
 
-### Heatmap of Traps and WNVPresent in Respective Years
+### Heatmap of WNVPresent in Respective Years
 
 ![traps_wnvpresent_heatmap](./images/traps_wnvpresent_heatmap.png)
 
-Spray was only conducted in one area in 2011, although the prevalence of WNV is not as serious as compared to 2013 where spraying had been done in more areas, likely to impede the spread of the virus further.
-
-This discovery has prompted the team to look at dates of these sprays relative to the count of mosquitos.
+Traps are represented as 'X' in the heatmaps above. 
 
 
 ## Heatmap of Spray Location
